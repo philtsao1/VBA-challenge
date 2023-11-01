@@ -13,6 +13,15 @@ Add functionality to your script to return the stock with the "Greatest % increa
 
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
 
+# 2018:
+![image](https://github.com/philtsao1/VBA-challenge/assets/34148122/90845099-d0e8-45b1-9a9a-348572ac0cdc)
+
+# 2019:
+![image](https://github.com/philtsao1/VBA-challenge/assets/34148122/a57dda0b-5cbc-4667-880f-8d1c2a60e941)
+
+# 2020:
+![image](https://github.com/philtsao1/VBA-challenge/assets/34148122/aaaf0c0c-ad57-4b34-89d8-32435ad7576e)
+
 ```
 Sub Module2Challenge()
 Dim sheet As Worksheet
